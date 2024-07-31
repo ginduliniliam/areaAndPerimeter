@@ -1,0 +1,1 @@
+This is a regular go console program. Which calculates the area and perimeter of a rectangle and triangle. And also the area for the circle. This project was created to practice my skills in writing functions.
